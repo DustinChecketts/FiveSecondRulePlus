@@ -1,7 +1,7 @@
-# Five Second Rule Plus
+# Mana Tick Tracker Plus
 A World of Warcraft: Classic (Anniversary, Seasons, Hardcore, Era) addon that helps mana-using classes monitor and maintain mana efficiency.
 
-Five Second Rule Plus helps you manage your MP5 with a five-second rule (FSR) countdown, tick countdown, and mana regenerated per tick. All of this in a seamless, lightweight addon that integrates seamlessly into Blizzard's native UI in a sleek and stylish way.
+Mana Tick Tracker Plus helps you manage your MP5 with a five-second rule (FSR) countdown, tick countdown, and mana regenerated per tick. All of this in a seamless, lightweight addon that integrates seamlessly into Blizzard's native UI in a sleek and stylish way.
 
 <h4>Features</h4>
 
